@@ -1,2 +1,3 @@
 # SudokuSolver
-A solver for sudokus
+A solver for sudokus  
+*Created by Yannick Kooistra*
